@@ -23,7 +23,7 @@
         <img src="swap.jpg">
         <p>credit:graveweaver</p>
         <br>
-        <a href="http://www.google.com">This is a Link</a>
+        <a href="https://www.webtoons.com/en/supernatural/im-the-grim-reaper/list?title_no=1697&page=1">This is a Link For My favorite cartoon</a>
 
     </body>
 </html>
